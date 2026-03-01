@@ -1,4 +1,4 @@
-# AI Specialization - Module 2 (Machine Learning)
+# AI Specialization - Machine Learning
 
 This module is organized into **theory** and **exercises** notebooks.
 
